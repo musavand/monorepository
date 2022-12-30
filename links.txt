@@ -1,0 +1,4 @@
+https://dev.to/alexeagleson/how-to-create-a-node-and-react-monorepo-with-git-submodules-2g83
+https://www.section.io/engineering-education/how-to-use-cors-in-nodejs-with-express/
+https://www.moesif.com/blog/technical/logging/How-we-built-a-Nodejs-Middleware-to-Log-HTTP-API-Requests-and-Responses/
+
